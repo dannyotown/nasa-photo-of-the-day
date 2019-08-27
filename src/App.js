@@ -1,13 +1,15 @@
 import React from "react";
 import "./App.css";
+import { Header } from "./Components/Header/Header";
+import { Body } from "./Components/PictureContainer/PictureContainer";
+import { Footer } from "./Components/Footer/Footer"
 
 function App() {
   return (
     <div className="App">
-      <p>
-        Read through the instructions in the README.md file to build your NASA
-        app! Have fun 🚀!
-      </p>
+      <Header />
+      <Body />
+      <Footer />
     </div>
   );
 }

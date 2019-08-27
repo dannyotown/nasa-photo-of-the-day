@@ -1,0 +1,32 @@
+.bodyContain{
+    margin: 0 auto;
+    width: 80%;
+    height: 50%;
+    background: white;
+    
+}
+
+.picBox{
+    margin: 2% 0% 2% 0%;
+}
+
+#mainPic{
+    width: 60%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.pictureTitle{
+    text-align: left;
+}
+.infoBox{
+    margin-left: 20%;
+}
+.hrWidth{
+    margin: 2% 25% 0% 0% ;
+}
+p{
+    text-align: left;
+    margin: 1.5% 25% 3% 0%;
+    line-height: 25px;
+}
