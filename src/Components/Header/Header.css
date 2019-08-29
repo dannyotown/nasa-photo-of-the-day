@@ -1,16 +1,4 @@
-.navBar{
-    width: 98%;
-    height: 100px;
-    background-color: #0B3D91;
-    padding: 1%;
-}
 
-#navText{
-    position: absolute;
-    right: 0;
-    margin-right: 5%;
-    color: white;
-}
 #rocket{
     height:100px;
     width: auto;
